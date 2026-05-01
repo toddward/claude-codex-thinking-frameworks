@@ -1,5 +1,7 @@
 # Claude/Codex Thinking Frameworks
 
+Pulled originally from my Skills playground: https://github.com/toddward/claude-skills-playground/tree/main/thinking-frameworks
+
 Structured thinking frameworks for agent-assisted analysis, decision-making, and problem solving.
 
 This repository contains a reusable skill definition plus reference material for running rigorous multi-perspective reasoning workflows. It also includes a Gemini Enterprise agent setup that maps the same frameworks into an orchestrator plus specialized sub-agents.
