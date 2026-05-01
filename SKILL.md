@@ -2,23 +2,18 @@
 name: thinking-frameworks
 description: >
   Multi-agent thinking frameworks for rigorous problem-solving and decision-making.
-  Contains seven frameworks: Dialectical (thesis-antithesis-synthesis), Six Thinking
-  Hats (parallel perspectives), First Principles (strip to fundamentals), Collision-Zone
-  (creative breakthroughs), Cynefin (problem-domain classification), Pre-mortem
-  (failure-future imagination), and Iceberg (events → patterns → structures → mental
-  models). Plus six composition patterns and three composable techniques (Steel-manning,
-  Inversion, Chesterton's Fence) that augment any framework. Use whenever the user
-  needs to evaluate competing approaches, make architecture decisions, challenge
-  assumptions, modernize legacy systems, write RFP responses, run post-mortems,
-  compare technologies, classify ambiguous problems, imagine how a project could
-  fail, trace recurring incidents to systemic causes, or do any multi-perspective
-  analysis. Triggers on "think this through", "pros and cons", "tradeoffs", "should
-  we use X or Y", "devil's advocate", "argue both sides", "from all angles", "what
-  are we missing", "first principles", "rethink this", "why do we do it this way",
-  "brainstorm", "go/no-go", "use dialectical", "run six hats", "pre-mortem", "what
-  could go wrong", "iceberg", "root cause", "systemic recurrence", "classify the
-  problem", "complicated vs complex", "this keeps happening", "steel-man", "invert
-  the problem", "Chesterton's Fence", or any thinking framework reference.
+  Includes Dialectical (thesis-antithesis-synthesis), Six Thinking Hats, First
+  Principles, Collision-Zone, Cynefin (problem classification), Pre-mortem (imagine
+  failure modes), and Iceberg (events→patterns→structures→mental models), plus
+  composition patterns and techniques like Steel-manning, Inversion, and
+  Chesterton's Fence. Use whenever the user needs to evaluate competing approaches,
+  make architecture decisions, challenge assumptions, modernize legacy systems,
+  run post-mortems, classify ambiguous problems, or do multi-perspective analysis.
+  Triggers on "think this through", "pros and cons", "tradeoffs", "should we use
+  X or Y", "devil's advocate", "from all angles", "what are we missing", "first
+  principles", "why do we do it this way", "go/no-go", "pre-mortem", "what could
+  go wrong", "root cause", "this keeps happening", "steel-man", "invert the
+  problem", "Chesterton's Fence", or any thinking framework reference.
 ---
 
 # Thinking Frameworks for Agent Teams
